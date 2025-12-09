@@ -16,8 +16,7 @@ Illustrer l’implémentation du design pattern Observer en programmation orient
 - **Observer 2** : calcule la moyenne des prix HT.
 
 ## 📘 Diagramme de classes!
-![img_6.png](img_6.png)
-
+![img_1.png](img/img_1.png)
 ## 🖥️ Execution :
 
 ### Exemple d’exécution — Mode Push
@@ -45,7 +44,7 @@ public class Test {
 ````
 **Résultats :**
 
-![img_3.png](img_3.png)
+![img_2.png](img/img_2.png)
 
 ### Exemple d’exécution — Mode Pull
 **Code (main) :** 
@@ -88,6 +87,6 @@ public class Test2 {
 
 **Résultats :**
 
-![img_4.png](img_4.png)
+![img_4.png](img/img_4.png)
 ----
 👨‍💻 **RABIH Hamza** - M2- II-BDCC- ENSET Mohammédia
