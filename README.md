@@ -7,4 +7,4 @@ Ce repository contient plusieurs modules, chacun dédié à un design pattern av
 | Design Pattern | Description | Lien                         |
 |----------------|-------------|------------------------------|
 | Observer       | Implémentation simple du pattern Observer avec push/pull | [Voir le module](./Observer) |
-| Decorator      | Exemple d’enrichissement d’objets à la volée (Decorator Pattern) | [Voir le module] (./Decorator)   |
+| Decorator      | Exemple d’enrichissement d’objets à la volée (Decorator Pattern) | [Voir le module](./Decorator)|
