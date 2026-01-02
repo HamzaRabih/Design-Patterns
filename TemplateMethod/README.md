@@ -44,6 +44,10 @@ Sous-classes → Fournissent les détails
 
 ---
 
+## 📘 Diagramme de classes!
+
+![img_1.png](img/img_1.png)
+
 ## 💻 Code
 
 ### 🔹 Classe abstraite — squelette de l’algorithme
