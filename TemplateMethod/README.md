@@ -33,6 +33,7 @@ Sous-classes → Fournissent les détails
 
 ---
 
+
 ## 🧩 Structure de l’exemple
 
 | Élément | Rôle |
