@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Decorator" />
         <module name="TemplateMethod" />
+        <module name="Proxy" />
+        <module name="Composite" />
+        <module name="Observer" />
         <module name="Strategy" />
         <module name="Adapter" />
-        <module name="Proxy" />
-        <module name="Observer" />
       </profile>
     </annotationProcessing>
   </component>
