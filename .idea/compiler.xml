@@ -10,6 +10,7 @@
         <module name="TemplateMethod" />
         <module name="Proxy" />
         <module name="Composite" />
+        <module name="Builder-Singleton-Prototype" />
         <module name="Observer" />
         <module name="Strategy" />
         <module name="Adapter" />
