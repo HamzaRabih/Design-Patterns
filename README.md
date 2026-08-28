@@ -12,4 +12,5 @@ Ce repository contient plusieurs modules, chacun dédié à un design pattern av
 | Adapter         | Implémentation du pattern Adapter (Adapter Pattern)    | [Voir le module](./Adapter)  |
 | Proxy           | Implémentation du pattern Proxy (Proxy)    | [Voir le module](./Proxy)    |
 | Template Method | Implémentation du pattern Proxy (TemplateMethod)    | [Voir le module](./TemplateMethod) |
+| State           | Cycle de vie d'un document (State Pattern)    | [Voir le module](./State)    |
     
